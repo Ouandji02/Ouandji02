@@ -2,6 +2,41 @@
 
 ### Salut 👋
 Je m’appelle Ouandji Thierry étudiant en Master 1 option IA passionné par le développement logiciel et d’applications intelligentes ayant 1 ans d’expérience en mobile et web. J’ai déjà eu à réaliser plusieurs applications mobiles avec les technologies natives(kotlin) et multiplateformes(Flutter). J’ai également travaillé sur des projets web utilisant React comme front-end ,nodeJs et Firebase comme back-end. sans oublier Nicepage, un CMS que j’utilise généralement pour des sites web statiques. 
+
+### Langages et outils
+
+<p>
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png?raw=true">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/888/888859.png?raw=true">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png?raw=true">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png?raw=true">
+    <img height="30"
+        src="https://as1.ftcdn.net/v2/jpg/04/75/01/94/1000_F_475019480_qhU59bJx1Eoiko8i8TpJhEyUNctHRqWm.jpg?raw=true"></a>
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg?raw=true">
+    <img height="30"
+        src="https://t3.ftcdn.net/jpg/03/52/67/82/240_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg?raw=true">
+    <img height="30"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg?raw=true">
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouandji02)](https://github.com/Ouandji02/github-readme-stats)
+
+
 Si vous trouvez mon profil intéressant ou de la valeur dans un de mes projets,N'hésitez pas à me contacter par [mail](mailto:ouandjithierry00@gmail.com) ou sur [@YDOL2002](https://twitter.com/YDOL2002). Vous pouvez égalment le faire sur 
 
 <p align="center">
