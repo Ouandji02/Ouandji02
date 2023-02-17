@@ -11,8 +11,8 @@ Si vous trouvez mon profil intéressant ou de la valeur dans un de mes projets,N
             src="https://github.com/Ouandji02/Ouandji02/blob/main/twitter.png?raw=true"></a>
     <a href="https://www.facebook.com/thierry.ouandji.7"><img height="24"
             src="https://github.com/Ouandji02/Ouandji02/blob/main/facebook.png?raw=true"></a>
-    <a href="https://www.linkedin.com/in/thierry-ouandji-1b2274212/"><img height="30"
-            src="https://www.flaticon.com/free-icon/mail_9068642?raw=true"></a>
+    <a href="https://www.linkedin.com/in/thierry-ouandji-1b2274212/"><img height="24"
+            src="mail.png?raw=true"></a>
 </p>
 
 
