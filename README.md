@@ -1,6 +1,6 @@
-![Ouandji02](https://github.com/Ouandji02/Ouandji02/blob/main/banniere%202.png)
+![Ouandji02](https://github.com/Ouandji02/Ouandji02/blob/main/banniere2.png)
 
-###Hello everyone👋
+### Hello everyone👋
 
 My name is Ouandji Thierry student in Master 1 option IA passionate about software development and intelligent applications with 1 year of experience in mobile and web. I have already had to create several mobile applications with native (kotlin) and cross-platform (Flutter) technologies. I also worked on web projects using React as front-end, nodeJs and Firebase as back-end. without forgetting Nicepage, a CMS that I generally use for static websites.
 
