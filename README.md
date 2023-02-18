@@ -47,7 +47,7 @@ My name is Ouandji Thierry student in Master 1 option IA passionate about softwa
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ydol&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-If you find my profile interesting or of value in one of my projects, do not hesitate to contact me by [mail](mailto:ouandjithierry00@gmail.com) or on [@YDOL2002](https://twitter.com /YDOL2002). You can also do this on
+If you find my profile interesting or of value in one of my projects, do not hesitate to contact me by [mail](mailto:ouandjithierry00@gmail.com) or on    [@YDOL2002](https://twitter.com/YDOL2002). You can also do this on
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thierry-ouandji-1b2274212/"><img height="24"
@@ -56,7 +56,7 @@ If you find my profile interesting or of value in one of my projects, do not hes
             src="https://github.com/Ouandji02/Ouandji02/blob/main/twitter.png?raw=true"></a>
     <a href="https://www.facebook.com/thierry.ouandji.7"><img height="24"
             src="https://github.com/Ouandji02/Ouandji02/blob/main/facebook.png?raw=true"></a>
-    <a href="https://www.linkedin.com/in/thierry-ouandji-1b2274212/"><img height="24"
+    <a href="mailto:ouandjithierry00@gmail.com"><img height="24"
             src="mail.png?raw=true"></a>
 </p>
 
