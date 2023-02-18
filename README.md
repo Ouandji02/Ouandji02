@@ -10,7 +10,7 @@ My name is Ouandji Thierry student in Master 1 option IA passionate about softwa
 - Hobby : Mangas, programming , search, music, films and documentary
 - 💬 Ask me more [here](mailto:ouandjithierry00@gmail.com) 
 
-### Langages et outils
+### Languages ​​and tools
 
 <p>
     <img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png?raw=true">
